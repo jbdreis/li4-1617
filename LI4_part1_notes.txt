@@ -1,6 +1,5 @@
 PARTE I
 
-
     ==> Contextualização (H)
         Onde o projeto se enquadra
         Ex.: Universidade -> campus, cantina, bares, máquinas...
@@ -24,20 +23,23 @@ PARTE I
         Ex.: Chegamos à conclusão que não existia nada como isto no mercado
 
 
-    ==> Utilidade
+    ==> Utilidade (D)
         Para que serve
         Ex.: Em vez de perder 30 minutos à procura de uma francesinha, passo 3
 
 
-    ==> Identidade do projeto
+    ==> Identidade do projeto (DUVIDAS)
         Caracterizar o projeto
+        Nome que vamos dar à App (CHICO)
+        PONTOS DE AVALIAÇÃO DO ANO PASSADO (DUVIDA):
+            Utilizadores que vão usar o sistema
         Não é necessário textos alongados
 
 
-    ==> Recursos
+    ==> Recursos (R)
         Vão fazer uma omelete, que ovos vão usar e que omelete se vai fazer
         Onde vamos buscar os dados -> No inicio recolha manual de dados antes do lançamento da aplicação (por ex. só em braga, região norte, etc.)
-            Principais restaurantes onde pessoalmente vamos para encher
+            Principais restaurantes onde pessoalmente vamos recolher dados
 
         Verificar como a google populou o Maps
         Como, quando, será que podemos
@@ -51,7 +53,7 @@ PARTE I
         PODE MUDAR NA 2ª FASE
 
 
-    ==> Definição (qualquer coisa) Sucesso
+    ==> Definição (qualquer coisa) Sucesso (D)
         TÓPICOS CONSIDERADOS BÁSICOS:
             Acabar o projeto dentro do prazo
             Requisitos minimos a ser cumpridos
@@ -67,6 +69,7 @@ PARTE I
 
 
 COISAS A ADICIONAR:
+    Data de último update feito à informação
     Sistema de pontuação (5 estrelas) e reviews
         Por ementa
         Ambiente do restaurante
@@ -76,7 +79,9 @@ COISAS A ADICIONAR:
         Localização incorreta
         Preço incorreto
     Ligar ao máximo de redes sociais possiveis
+    Fazer log in através da google, facebook, microsoft account
 
+        POTENCIAIS EXTRAS 
         Reputação de usuários
 
 
