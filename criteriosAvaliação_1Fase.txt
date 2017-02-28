@@ -1,0 +1,9 @@
+CRITÉRIOS DE APRECIAÇÃO E VALIDAÇÃO 1ª FASE
+
+1) A apresentação e contextualização do problema foi apresentada de forma clara?
+2) A motivação e objetivos do problema foram bem definidos e expostos?
+3) Houve o cuidado de caracterizar um eventual cliente para a aplicação proposta?
+4) Os serviços da futura aplicação foram bem apresentados?
+5) Houve a preocupação de caracterizar cada um dos seviços apresentados?
+6) A qualidade da planifição realizada está de acordo com o projeto em causa?
+7) A qualidade geral da apresentação realizada está de acordo com o projeto em causa?

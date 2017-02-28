@@ -1,0 +1,58 @@
+Contextualização
+    Onde o projeto se enquadra
+    Ex.: Universidade -> campus, cantina, bares, máquinas...
+         Braga
+         Região Norte
+         Hotel
+         Não fazer a nível europeu (demasiado ambicioso)
+    Porquê este enquadramento
+
+    ESCOLHIDO: Portugal
+
+
+Motivação e objetivos
+    o que nos leva a implementar este projeto
+    Se nós tivessemos esta ideia, qual o motivo de a tentarmos desenvolver 
+    O que pretendemos obter quando acabarmos o projeto
+
+
+Justificação do sistema
+    Justificar em termos práticos
+    Ex.: Chegamos à conclusão que não existia nada como isto no mercado
+
+
+Utilidade
+    Para que serve
+    Ex.: Em vez de perder 30 minutos à procura de uma francesinha, passo 3
+
+
+Identidade do projeto
+    Caracterizar o projeto
+    Não é necessário textos alongados
+
+
+Recursos
+    Vão fazer uma omelete, que ovos vão usar e que omelete se vai fazer
+    Onde vamos buscar os dados
+    Como, quando, será que podemos
+
+
+Maqueta
+    Arquitetura global do sistema
+    Esboço apenas
+    cliente -> servidor -> base dados -> ...
+    Plataformas Móveis e Desktop mencionado
+    PODE MUDAR NA 2ª FASE
+
+
+Definição (qualquer coisa) Sucesso
+    TÓPICOS CONSIDERADOS BÁSICOS:
+        Acabar o projeto dentro do prazo
+        Requisitos minimos a ser cumpridos
+
+    Explicações breves; q.b.
+    Ex.: Ao fim de x tempo queremos y utilizadores e z restaurantes (ideia que tive -D)
+
+Plano de desenvolvimento
+    Distribuição do trabalho
+    Diagrama de Gantt
