@@ -23,12 +23,12 @@ PARTE I
         Ex.: Chegamos à conclusão que não existia nada como isto no mercado
 
 
-    ==> Utilidade (D)
+    ==> Utilidade do sistema (D)
         Para que serve
         Ex.: Em vez de perder 30 minutos à procura de uma francesinha, passo 3
 
 
-    ==> Identidade do projeto (DUVIDAS)
+    ==> Estabelecimento da identidade do projeto (DUVIDAS)
         Caracterizar o projeto
         Nome que vamos dar à App (CHICO)
         PONTOS DE AVALIAÇÃO DO ANO PASSADO (DUVIDA):
@@ -36,7 +36,7 @@ PARTE I
         Não é necessário textos alongados
 
 
-    ==> Recursos (R)
+    ==> Identificação dos recursos necessários (R)
         Vão fazer uma omelete, que ovos vão usar e que omelete se vai fazer
         Onde vamos buscar os dados -> No inicio recolha manual de dados antes do lançamento da aplicação (por ex. só em braga, região norte, etc.)
             Principais restaurantes onde pessoalmente vamos recolher dados
@@ -45,7 +45,7 @@ PARTE I
         Como, quando, será que podemos
 
 
-    ==> Maqueta (R)
+    ==> Maqueta do sistema (R)
         Arquitetura global do sistema
         Esboço apenas
         cliente -> servidor -> base dados -> ...
@@ -53,7 +53,7 @@ PARTE I
         PODE MUDAR NA 2ª FASE
 
 
-    ==> Definição (qualquer coisa) Sucesso (D)
+    ==> Definição de um conjunto de medidas de sucesso (D)
         TÓPICOS CONSIDERADOS BÁSICOS:
             Acabar o projeto dentro do prazo
             Requisitos minimos a ser cumpridos
