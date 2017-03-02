@@ -11,6 +11,9 @@ PARTE I
 
         ESCOLHIDO: Portugal
 
+        TIPO DE COMIDA: Comida a baixo preço
+
+
 
     ==> Motivação e objetivos (H)
         o que nos leva a implementar este projeto
@@ -66,7 +69,12 @@ PARTE I
         Diagrama de Gantt
 
 
+DADOS:
+	Yelp, tripadvisor, etc. para arranjar info
+	PROF: podemos aliar aos dados que recolhemos em cima um registo de ementas dos vários restaurantes
 
+	Yelp:
+		Preço (pelo menos a range e depois ao longo do tempo os utilizadores podem adicionar )
 
 COISAS A ADICIONAR:
     Data de último update feito à informação
@@ -80,6 +88,10 @@ COISAS A ADICIONAR:
         Preço incorreto
     Ligar ao máximo de redes sociais possiveis
     Fazer log in através da google, facebook, microsoft account
+    Possibilidade de restaurantes pagarem para fazer sticky do seu restaurante no topo da página
+    	ÑÃO MUDAR REVIEWS
+    Não restringir em termos de comida!!!
+    Podemos fazer isto no começo as a proof of concept, mas temos de comprovar que a aplicação é facilmente escalável
 
         POTENCIAIS EXTRAS 
         Reputação de usuários
