@@ -1,5 +1,6 @@
 PARTE I
 
+
     ==> Contextualização (H)
         Onde o projeto se enquadra
         Ex.: Universidade -> campus, cantina, bares, máquinas...
@@ -10,9 +11,6 @@ PARTE I
         Porquê este enquadramento
 
         ESCOLHIDO: Portugal
-
-        TIPO DE COMIDA: Comida a baixo preço
-
 
 
     ==> Motivação e objetivos (H)
@@ -76,6 +74,12 @@ DADOS:
 	Yelp:
 		Preço (pelo menos a range e depois ao longo do tempo os utilizadores podem adicionar )
 
+	Não restringir em termos de comida!!!
+    Podemos fazer isto no começo as a proof of concept, mas temos de comprovar que a aplicação é facilmente escalável
+    
+
+
+
 COISAS A ADICIONAR:
     Data de último update feito à informação
     Sistema de pontuação (5 estrelas) e reviews
@@ -90,8 +94,8 @@ COISAS A ADICIONAR:
     Fazer log in através da google, facebook, microsoft account
     Possibilidade de restaurantes pagarem para fazer sticky do seu restaurante no topo da página
     	ÑÃO MUDAR REVIEWS
-    Não restringir em termos de comida!!!
-    Podemos fazer isto no começo as a proof of concept, mas temos de comprovar que a aplicação é facilmente escalável
+    Se estiver ligado à internet e localização ligada a app pode verificar preferencias (pratos, restaurantes preferidos) e caso encontre algo perto
+
 
         POTENCIAIS EXTRAS 
         Reputação de usuários
@@ -104,3 +108,6 @@ RELATÓRIO
         Reservas
         Descontos
         Parerias com restaurantes
+    
+    API
+    IDE
